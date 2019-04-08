@@ -1,8 +1,5 @@
 package com.example.mvparchitectureandroid.view;
 
-/**
- * Created by bpn on 11/30/17.
- */
 
 public class Client {
 
